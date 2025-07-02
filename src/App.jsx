@@ -113,5 +113,4 @@ function Todo({ todo, setTodoList }) {
   );
 }
 
-
 export default App;
